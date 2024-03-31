@@ -1,0 +1,10 @@
+*
+!.gitignore
+!.alacritty.toml
+!.bashrc
+!.config
+!.vimrc
+!.vim
+!.zshrc
+!.vscode-oss
+
