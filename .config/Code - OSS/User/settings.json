@@ -1,0 +1,20 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.fontFamily": "'MartianMono Nerd Font', 'Condensed Medium'",
+    "editor.fontSize": 14,
+    "workbench.preferredDarkColorTheme": "Dracula",
+    "workbench.preferredHighContrastColorTheme": "Dracula",
+    "workbench.preferredHighContrastLightColorTheme": "Dracula",
+    "workbench.preferredLightColorTheme": "Dracula",
+    "workbench.colorCustomizations": {
+        "[Dracula]": {
+          "titleBar.activeBackground": "#424463",
+          "titleBar.activeForeground":"#ffffff",
+        },
+      },
+      "window.titleBarStyle": "custom",
+      "window.zoomLevel": 1,
+      "workbench.iconTheme": "vscode-great-icons",
+      "explorer.confirmDelete": false
+    
+}
